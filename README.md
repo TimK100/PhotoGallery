@@ -1,2 +1,2 @@
 # PhotoGallery
-Simple photo gallery with CSS &amp; HTML
+Simple photo gallery utilizing CSS &amp; HTML
